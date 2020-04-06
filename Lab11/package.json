@@ -1,0 +1,19 @@
+{
+  "name": "ex-wk14",
+  "version": "1.0.0",
+  "main": "sum.js",
+  "dependencies": {
+    "g": "^2.0.1",
+    "jest-cli": "^25.2.7"
+  },
+  "devDependencies": {
+    "jest": "^25.2.7"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
